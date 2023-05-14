@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://sukhbinder.wordpress.com/2022/01/19/let-it-snow-the-python-code/)] -->
 <h1 align="center">Hi 👋, I'm Sweta Chaudhary</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw09RxbT5ttkcIPiw8CG8SVM&ust=1684138399353000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD_gc6u9P4CFQAAAAAdAAAAABAE>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="sweta-chaudhary" /> </p>
 
 - 🌱 I’m currently learning **Data Visualization techniques and Machine Learning**
